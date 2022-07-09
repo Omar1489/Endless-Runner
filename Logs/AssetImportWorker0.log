@@ -1,0 +1,212 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.19f1 (68f137dc9bbe) revision 6877495'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1415; Version 2009; 64bit' Language: 'en' Physical Memory: 16291 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.19f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Projects/Semester 9/Unity/T11_43_3387_Omar
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57940
+Successfully changed project path to: D:/Projects/Semester 9/Unity/T11_43_3387_Omar
+D:/Projects/Semester 9/Unity/T11_43_3387_Omar
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 45.17 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.19f1 (68f137dc9bbe)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Projects/Semester 9/Unity/T11_43_3387_Omar/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f15)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   27.21.14.5749
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56948
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002618 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 45.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.318 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2318ms)
+		BeginReloadAssembly (72ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (555ms)
+			LoadAssemblies (69ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (205ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (213ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (46ms)
+				BeforeProcessingInitializeOnLoad (13ms)
+				ProcessInitializeOnLoadAttributes (109ms)
+				ProcessInitializeOnLoadMethodAttributes (39ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002402 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 43.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.391 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1392ms)
+		BeginReloadAssembly (192ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (21ms)
+		EndReloadAssembly (1119ms)
+			LoadAssemblies (106ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (361ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (57ms)
+			SetupLoadedEditorAssemblies (432ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (44ms)
+				BeforeProcessingInitializeOnLoad (71ms)
+				ProcessInitializeOnLoadAttributes (297ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1719 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.6 MB.
+System memory in use after: 78.7 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2156.
+Total: 4.143800 ms (FindLiveObjects: 0.229900 ms CreateObjectMapping: 0.097100 ms MarkObjects: 3.736700 ms  DeleteObjects: 0.078800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Audios/mixkit-arcade-bonus-229.wav
+  artifactKey: Guid(059ffc11674dfc645a465e9a7c78a2bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audios/mixkit-arcade-bonus-229.wav using Guid(059ffc11674dfc645a465e9a7c78a2bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64d1d8bcb8e74b67a04699cf34754292') in 0.259937 seconds 
+  Import took 0.302492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Audios/mixkit-driving-ambition-32.mp3
+  artifactKey: Guid(b6d11d421a7580c4a914b7a5c3ab97ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audios/mixkit-driving-ambition-32.mp3 using Guid(b6d11d421a7580c4a914b7a5c3ab97ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59c174682f97f2a694092f26ee567f6d') in 0.040871 seconds 
+  Import took 0.084662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Audios/mixkit-serene-view-443.mp3
+  artifactKey: Guid(634dced3a2b06f846bfe6d7e201aa700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audios/mixkit-serene-view-443.mp3 using Guid(634dced3a2b06f846bfe6d7e201aa700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd08a52736418d3b52aa8af30667d6b27') in 0.036882 seconds 
+  Import took 0.059347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Audios/mixkit-winning-a-coin-video-game-2069.wav
+  artifactKey: Guid(f81a26f1d3578bb41899b67864f94ece) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audios/mixkit-winning-a-coin-video-game-2069.wav using Guid(f81a26f1d3578bb41899b67864f94ece) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cc896e41f8a61d6fed24c08f40176cc') in 0.022169 seconds 
+  Import took 0.042026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Audios/mixkit-explosion-in-battle-2809.wav
+  artifactKey: Guid(d877166a32274d14e823e9ce93091d8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audios/mixkit-explosion-in-battle-2809.wav using Guid(d877166a32274d14e823e9ce93091d8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ded27e1eee85f8fb3ece720e28667471') in 0.035803 seconds 
+  Import took 0.063244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Audios/mixkit-ow-exclamation-of-pain-2204.wav
+  artifactKey: Guid(05ab725350e3d2143a75870017c9c713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audios/mixkit-ow-exclamation-of-pain-2204.wav using Guid(05ab725350e3d2143a75870017c9c713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f73984cd60231e1d7c45221e6c3599e5') in 0.018128 seconds 
+  Import took 0.042836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Audios/mixkit-daredevil-80.mp3
+  artifactKey: Guid(10ecb28096b0c1b4c8f8b4f301b1a12e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audios/mixkit-daredevil-80.mp3 using Guid(10ecb28096b0c1b4c8f8b4f301b1a12e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53a49b6ad23828dd26e8970c746d6561') in 0.033564 seconds 
+  Import took 0.073706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3299.518130 seconds.
+  path: Assets/Scripts/Options.cs
+  artifactKey: Guid(5a76ec1400c64e648a4e0562e7091c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Options.cs using Guid(5a76ec1400c64e648a4e0562e7091c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '964a6a51a4f2faeb113eb71bb7eee38a') in 0.010271 seconds 
+  Import took 0.129261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8514.173541 seconds.
+  path: Assets/Scripts/PlayerController.cs
+  artifactKey: Guid(5a11b19f4253fce45bdac6c1567a9941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerController.cs using Guid(5a11b19f4253fce45bdac6c1567a9941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac3aefb32ab0df6d9b798cd4bbfb136e') in 0.007432 seconds 
+  Import took 0.117333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.133913 seconds.
+  path: Assets/Scripts/PauseMenu.cs
+  artifactKey: Guid(98c41625fada2c445bb3a5331ddd5172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PauseMenu.cs using Guid(98c41625fada2c445bb3a5331ddd5172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7adf81e64f19eac6999e7172526d208b') in 0.008743 seconds 
+  Import took 0.369901 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
